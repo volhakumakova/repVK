@@ -1,5 +1,5 @@
 1.	GIT base actions:
-ï	Clone remote repository using SSH keys;
-ï	Create 3 commits in ìmasterî branch;
-ï	Create new ìdevelopî branch and push 2 commits to it;
-ï	Merge ìdevelopî branch to ìmasterî branch;
+‚Ä¢	Clone remote repository using SSH keys;
+‚Ä¢	Create 3 commits in ‚Äúmaster‚Äù branch;
+‚Ä¢	Create new ‚Äúdevelop‚Äù branch and push 2 commits to it;
+
